@@ -22,8 +22,7 @@
           style="background:rgba(255,255,255,.04);border:1px solid rgba(255,226,52,.2);border-radius:4px;height:88px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px">
           <span style="font-size:20px">📻</span>
           <span
-            style="font-family:'Bebas Neue',sans-serif;font-size:15px;color:rgba(255,248,236,.6);letter-spacing:2px">Rádio
-            Tropical</span>
+            style="font-family:'Bebas Neue',sans-serif;font-size:15px;color:rgba(255,248,236,.6);letter-spacing:2px"><?= __('partners.radio_name') ?></span>
         </div>
         <div
           style="background:transparent;border:1px dashed rgba(255,248,236,.12);border-radius:4px;height:88px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;cursor:pointer">

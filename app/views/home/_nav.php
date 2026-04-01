@@ -23,8 +23,8 @@
       </button>
 
       <div class="lang-dropdown" id="lang-dropdown">
-        <a href="javascript:void(0)" onclick="setLang('pt')" class="<?= Lang::getLocale() === 'pt' ? 'active' : '' ?>">Português (Portugal)</a>
-        <a href="javascript:void(0)" onclick="setLang('en')" class="<?= Lang::getLocale() === 'en' ? 'active' : '' ?>">English</a>
+        <a href="javascript:void(0)" onclick="setLang('pt')" class="<?= Lang::getLocale() === 'pt' ? 'active' : '' ?>"><?= __('lang.pt') ?></a>
+        <a href="javascript:void(0)" onclick="setLang('en')" class="<?= Lang::getLocale() === 'en' ? 'active' : '' ?>"><?= __('lang.en') ?></a>
       </div>
     </div>
   </nav>

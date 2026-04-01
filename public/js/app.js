@@ -99,16 +99,11 @@
 
     // Language switch via POST (no URL param)
     window.setLang = function(locale) {
-        const form = document.createElement('form');
-        form.method = 'POST';
-        form.action = '/';
-        const input = document.createElement('input');
-        input.type = 'hidden';
-        input.name = 'lang';
-        input.value = locale;
-        form.appendChild(input);
-        document.body.appendChild(form);
-        form.submit();
+        if (locale === 'en') {
+            window.location.href = 'en.html';
+        } else {
+            window.location.href = 'index.html';
+        }
     };
 
     // Language Dropdown Toggle

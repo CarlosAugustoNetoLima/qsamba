@@ -27,8 +27,7 @@
               <?= __('timeline.2023_title') ?></div>
             <p style="font-size:13px;color:rgba(255,248,236,0.5);line-height:1.65"><?= __('timeline.2023_desc') ?></p>
             <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px"><span
-                style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px">Vivo
-                Samba</span></div>
+                style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px"> <?= __('tag.vivo_samba') ?></span></div>
           </div>
         </div>
 
@@ -49,8 +48,7 @@
               <?= __('timeline.2024ao_title') ?></div>
             <p style="font-size:13px;color:rgba(255,248,236,0.5);line-height:1.65"><?= __('timeline.2024ao_desc') ?></p>
             <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px"><span
-                style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px">Vivo
-                Samba</span></div>
+                style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px"> <?= __('tag.vivo_samba') ?></span></div>
           </div>
         </div>
 
@@ -113,8 +111,7 @@
             <p style="font-size:13px;color:rgba(255,248,236,0.5);line-height:1.65"><?= __('timeline.dez2024_desc') ?></p>
             <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:10px">
               <span
-                style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px">Samba
-                de Rua</span>
+                style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px"><?= __('tag.samba_rua') ?></span>
               <span
                 style="background:rgba(233,30,140,.08);border:1px solid rgba(233,30,140,.18);color:var(--pink);font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:4px 10px;border-radius:2px">Oriana
                 de Castilho</span>
