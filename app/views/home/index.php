@@ -1,0 +1,15 @@
+<?php include __DIR__ . '/_nav.php'; ?>
+<?php include __DIR__ . '/_hero.php'; ?>
+<?php include __DIR__ . '/_ticker.php'; ?>
+<?php include __DIR__ . '/_countdown.php'; ?>
+<?php include __DIR__ . '/_experience.php'; ?>
+<?php include __DIR__ . '/_timeline.php'; ?>
+<?php include __DIR__ . '/_lineup.php'; ?>
+<?php include __DIR__ . '/_tickets.php'; ?>
+<?php include __DIR__ . '/_vip.php'; ?>
+<?php include __DIR__ . '/_sorteios.php'; ?>
+<?php include __DIR__ . '/_energy.php'; ?>
+<?php include __DIR__ . '/_gallery.php'; ?>
+<?php include __DIR__ . '/_about.php'; ?>
+<?php include __DIR__ . '/_partners.php'; ?>
+<?php include __DIR__ . '/_footer.php'; ?>
